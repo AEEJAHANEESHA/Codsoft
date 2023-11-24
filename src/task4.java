@@ -109,3 +109,4 @@ public class task4 {
         registrationSystem.removeCourse(student1, "MATH001");
     }
 }
+

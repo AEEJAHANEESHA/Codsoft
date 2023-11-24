@@ -1,6 +1,3 @@
-
-    
-
 import java.util.Scanner;
 
 public class task2 {
@@ -51,5 +48,6 @@ public class task2 {
         System.out.println("Grade obtained in subject-" + subjectNumber + " is: " + grade);
     }
 }
+
 
 
